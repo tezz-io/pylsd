@@ -8,7 +8,7 @@ setup(
     version='1.1',
     description='pylsd is the python bindings for LSD - Line Segment Detector',
     author='Tejas M R',
-    author_email='totejasnr@gmail.com',
+    author_email='totejasmr@gmail.com',
     license='BSD',
     keywords="LSD",
     url='https://github.com/tezz-io/pylsd',

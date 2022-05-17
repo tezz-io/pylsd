@@ -1,22 +1,22 @@
-pylsd
+tezz-pylsd
 =============
 
 ### 1. Introduction
 
-pylsd is the python bindings for [LSD - Line Segment Detector](http://www.ipol.im/pub/art/2012/gjmr-lsd/).
+tezz-pylsd is the python bindings for [LSD - Line Segment Detector](http://www.ipol.im/pub/art/2012/gjmr-lsd/).
 
 ### 2. Install
 
 This package uses distutils, which is the default way of installing python modules. To install in your home directory, securely run the following:
 ```
-git clone https://github.com/primetang/pylsd.git
-cd pylsd
+git clone https://github.com/tezz-io/tezz-pylsd.git
+cd tezz-pylsd
 [sudo] python setup.py install
 ```
 
 Or directly through `pip` to install it:
 ```
-[sudo] pip install pylsd
+[sudo] pip install tezz-pylsd
 ```
 
 ### 3. Usage

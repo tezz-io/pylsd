@@ -10,6 +10,7 @@ import os
 import sys
 import random
 import numpy as np
+import platform
 
 
 def load_lsd_library():
@@ -17,6 +18,8 @@ def load_lsd_library():
     root_dir = os.path.abspath(os.path.dirname(__file__))
 
     libnames = ['linux/liblsd.so']
+    if platform.machine() == 'aarch64':
+        libnames = ['linux_arm/liblsd.so']
     libdir = 'lib'
     if sys.platform == 'win32':
         if sys.maxsize > 2 ** 32:

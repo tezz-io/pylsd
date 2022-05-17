@@ -11,6 +11,7 @@ setup(
     version='1.1',
     description='tezz-pylsd is the python bindings for LSD - Line Segment Detector',
     long_description=long_description,
+    long_description_content_type="text/markdown",
     author='Tejas M R',
     author_email='totejasmr@gmail.com',
     license='BSD',

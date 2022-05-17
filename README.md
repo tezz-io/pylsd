@@ -1,5 +1,4 @@
-tezz-pylsd
-=============
+# tezz-pylsd
 
 ### 1. Introduction
 
@@ -26,7 +25,7 @@ We can use the package by using `from pylsd.lsd import lsd`, and `lines = lsd(sr
 `[point1.x, point1.y, point2.x, point2.y, width]`
 
 
-According to these presentations, we can use it just like the following code ([here is the link](https://github.com/primetang/pylsd/tree/master/example)):
+According to these presentations, we can use it just like the following code ([here is the link](https://github.com/tezz-io/tezz-pylsd/tree/master/example)):
 
 * by using cv2 module
 
@@ -73,12 +72,12 @@ The following is the result:
 
 * car.jpg by using cv2 module
 
-![](https://github.com/primetang/pylsd/blob/master/example/car.jpg)
+![](https://github.com/tezz-io/tezz-pylsd/blob/master/example/car.jpg)
 
-![](https://github.com/primetang/pylsd/blob/master/example/cv2_car.jpg)
+![](https://github.com/tezz-io/tezz-pylsd/blob/master/example/cv2_car.jpg)
 
 * house.png by using PIL(Image) module
 
-![](https://github.com/primetang/pylsd/blob/master/example/house.png)
+![](https://github.com/tezz-io/tezz-pylsd/blob/master/example/house.png)
 
-![](https://github.com/primetang/pylsd/blob/master/example/PIL_house.jpg)
+![](https://github.com/tezz-io/tezz-pylsd/blob/master/example/PIL_house.jpg)

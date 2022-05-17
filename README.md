@@ -1,5 +1,7 @@
 # tezz-pylsd
 
+[Pypi](https://pypi.org/project/tezz-pylsd/1.1/)
+
 ### 1. Introduction
 
 tezz-pylsd is the python bindings for [LSD - Line Segment Detector](http://www.ipol.im/pub/art/2012/gjmr-lsd/).

@@ -1,6 +1,7 @@
 # tezz-pylsd
 
-[Pypi](https://pypi.org/project/tezz-pylsd/1.1/)
+[![PyPI version](https://badge.fury.io/py/tezz-pylsd.svg)](https://badge.fury.io/py/tezz-pylsd)
+
 
 ### 1. Introduction
 
